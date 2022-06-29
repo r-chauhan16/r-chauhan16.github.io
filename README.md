@@ -1,2 +1,2 @@
-# ravichauhan.github.io
-Blogging
+# Blogging space for Oralce and Postgres
+
